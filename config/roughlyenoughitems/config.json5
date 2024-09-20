@@ -72,7 +72,7 @@
 		// Declares whether entry panel should be invisible when not searching
 		"hideEntryPanelIfIdle": false,
 		"rainbow": false,
-		"horizontalEntriesBoundaries": 0.9194915254237288,
+		"horizontalEntriesBoundaries": 0.92,
 		"verticalEntriesBoundaries": 1.0,
 		"horizontalEntriesBoundariesColumns": 50,
 		"verticalEntriesBoundariesRows": 1000,
