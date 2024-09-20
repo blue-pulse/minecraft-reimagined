@@ -9,16 +9,16 @@
 		"keyBindings": {
 			"useNativeKeybinds": false,
 			"recipeKeybind": {
-				"keyCode": "key.keyboard.r",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"usageKeybind": {
-				"keyCode": "key.keyboard.u",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"hideKeybind": {
-				"keyCode": "key.keyboard.o",
-				"modifier": 2
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
 			},
 			"previousPageKeybind": {
 				"keyCode": "key.keyboard.unknown",
@@ -37,11 +37,11 @@
 				"modifier": 0
 			},
 			"favoriteKeybind": {
-				"keyCode": "key.keyboard.a",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"exportImageKeybind": {
-				"keyCode": "key.keyboard.f8",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"previousScreenKeybind": {
@@ -72,7 +72,7 @@
 		// Declares whether entry panel should be invisible when not searching
 		"hideEntryPanelIfIdle": false,
 		"rainbow": false,
-		"horizontalEntriesBoundaries": 1.0,
+		"horizontalEntriesBoundaries": 0.9194915254237288,
 		"verticalEntriesBoundaries": 1.0,
 		"horizontalEntriesBoundariesColumns": 50,
 		"verticalEntriesBoundariesRows": 1000,
