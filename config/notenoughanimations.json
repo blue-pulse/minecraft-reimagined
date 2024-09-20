@@ -40,7 +40,7 @@
   "itemSwapAnimation": true,
   "tweakElytraAnimation": true,
   "petAnimation": true,
-  "fallingAnimation": false,
+  "fallingAnimation": true,
   "freezingAnimation": true,
   "huggingAnimation": false,
   "narutoRunning": false,

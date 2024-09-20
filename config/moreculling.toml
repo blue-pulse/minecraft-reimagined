@@ -20,4 +20,6 @@ entityModelCulling = false
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
+milk = true
+create = true
 minecraft = true

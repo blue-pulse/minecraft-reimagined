@@ -24,6 +24,7 @@ mode = "fancy"
 			[light_sources.settings.entities.minecraft]
 				bee = true
 				axolotl = true
+				arrow = true
 				cow = true
 				pig = true
 				skeleton = true
