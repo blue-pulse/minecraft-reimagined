@@ -84,6 +84,7 @@ mode = "fancy"
 				villager = true
 				zombie_villager = true
 				strider = true
+				polar_bear = true
 				painting = true
 				cave_spider = true
 				cod = true
