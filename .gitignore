@@ -1,0 +1,10 @@
+*.*
+!assets/*/*
+!config/*/*
+!mods/*.jar
+!resourcepacks/*.zip
+!shaderpacks/*.zip
+!shaderpacks/*.txt
+!options.txt
+!.gitignore
+!*.md
