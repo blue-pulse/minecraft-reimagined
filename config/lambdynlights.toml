@@ -46,6 +46,7 @@ mode = "fancy"
 				salmon = true
 				vex = true
 				wither_skeleton = true
+				wandering_trader = true
 				piglin_brute = true
 				ocelot = true
 				item_frame = true

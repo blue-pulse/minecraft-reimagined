@@ -163,6 +163,14 @@ key_key.shouldersurfing.swap_shoulder:key.keyboard.unknown
 key_key.shouldersurfing.toggle_perspective:key.keyboard.unknown
 key_key.shouldersurfing.free_look:key.keyboard.unknown
 key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.unknown
+key_key.soulsweapons.return_freyr_sword:key.keyboard.r
+key_key.soulsweapons.freyr_sword_stationary:key.keyboard.z
+key_key.soulsweapons.collect_summons_soul_reaper:key.keyboard.v
+key_key.soulsweapons.switch_weapon:key.keyboard.b
+key_key.soulsweapons.keybind_ability:key.keyboard.left.alt
+key_key.soulsweapons.parry:key.keyboard.right.alt
+key_key.soulsweapons.effect_shoot_moonlight:key.keyboard.h
+key_key.soulsweapons.return_thrown_weapon:key.keyboard.n
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.unknown
 key_gui.xaero_toggle_slime:key.keyboard.unknown
