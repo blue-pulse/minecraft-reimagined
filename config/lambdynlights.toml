@@ -92,6 +92,9 @@ mode = "fancy"
 				witch = true
 				spider = true
 
+			[light_sources.settings.entities.grapplemod]
+				grapplehook = true
+
 			[light_sources.settings.entities.betternether]
 				firefly = true
 				hydrogen_jellyfish = true

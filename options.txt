@@ -45,7 +45,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/FreshAnimations_v1.9.2.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","fabric","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","continuity:glass_pane_culling_fix","continuity:default"]
+resourcePacks:["vanilla","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/FreshAnimations_v1.9.2.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","fabric","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","file/Connected Paths v1.2.zip","continuity:glass_pane_culling_fix","continuity:default"]
 incompatibleResourcePacks:["file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip"]
 lastServer:
 lang:es_es
@@ -142,6 +142,18 @@ key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w
 key_key.do_a_barrel_roll.thrust_backward:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.unknown
+key_key.boththrow.desc:key.mouse.right
+key_key.leftthrow.desc:key.keyboard.unknown
+key_key.rightthrow.desc:key.keyboard.unknown
+key_key.motoronoff.desc:key.keyboard.left.shift
+key_key.jumpanddetach.desc:key.keyboard.space
+key_key.slow.desc:key.keyboard.left.shift
+key_key.climb.desc:key.keyboard.left.shift
+key_key.climbup.desc:key.keyboard.unknown
+key_key.climbdown.desc:key.keyboard.unknown
+key_key.enderlaunch.desc:key.mouse.left
+key_key.rocket.desc:key.mouse.left
+key_key.slide.desc:key.keyboard.left.shift
 key_inventorymanagement.keybind.position_edit.player:key.keyboard.k
 key_inventorymanagement.keybind.position_edit.container:key.keyboard.l
 key_key.jade.config:key.keyboard.unknown
