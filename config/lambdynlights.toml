@@ -86,6 +86,7 @@ mode = "fancy"
 				potion = true
 				wolf = true
 				villager = true
+				skeleton_horse = true
 				zombie_villager = true
 				strider = true
 				polar_bear = true
