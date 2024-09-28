@@ -30,6 +30,7 @@ mode = "fancy"
 				magma_cube = true
 				pig = true
 				skeleton = true
+				llama = true
 				bat = true
 				husk = true
 				frog = true
@@ -46,6 +47,7 @@ mode = "fancy"
 				salmon = true
 				vex = true
 				wither_skeleton = true
+				wandering_trader = true
 				piglin_brute = true
 				ocelot = true
 				item_frame = true
@@ -64,11 +66,13 @@ mode = "fancy"
 				enderman = true
 				dragon_fireball = true
 				chicken = true
+				donkey = true
 				tropical_fish = true
 				fox = true
 				chest_minecart = true
 				slime = true
 				pillager = true
+				iron_golem = true
 				zombified_piglin = true
 				area_effect_cloud = true
 				piglin = true
@@ -82,6 +86,7 @@ mode = "fancy"
 				potion = true
 				wolf = true
 				villager = true
+				skeleton_horse = true
 				zombie_villager = true
 				strider = true
 				polar_bear = true
@@ -90,6 +95,9 @@ mode = "fancy"
 				cod = true
 				witch = true
 				spider = true
+
+			[light_sources.settings.entities.grapplemod]
+				grapplehook = true
 
 			[light_sources.settings.entities.betternether]
 				firefly = true
