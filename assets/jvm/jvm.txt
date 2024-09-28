@@ -1,1 +1,1 @@
--Xms1G -Xmx3G -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseShenandoahGC -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:+UseVectorCmov
+-XX:+UseZGC -XX:+ZGenerational -Xlog:gn+init -Xlog:async
