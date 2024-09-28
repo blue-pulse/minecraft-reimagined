@@ -1,7 +1,7 @@
 version:3465
 fullscreenMonitor:"0,0,1920,1080"
-fullscreenMode:2
-preferredFullscreenMode:2
+fullscreenMode:1
+preferredFullscreenMode:1
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -18,7 +18,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -34,11 +34,11 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
-renderDistance:6
+renderDistance:5
 simulationDistance:5
 entityDistanceScaling:1.0
 guiScale:3
-particles:1
+particles:2
 maxFps:260
 graphicsMode:0
 ao:true
@@ -66,7 +66,7 @@ chatHeightUnfocused:0.4375
 chatScale:1.0
 chatWidth:1.0
 notificationDisplayTime:1.0
-mipmapLevels:2
+mipmapLevels:1
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
