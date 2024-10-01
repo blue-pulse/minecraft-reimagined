@@ -36,7 +36,7 @@ highContrast:false
 gamma:1.0
 renderDistance:5
 simulationDistance:5
-entityDistanceScaling:1.0
+entityDistanceScaling:0.75
 guiScale:3
 particles:2
 maxFps:260
@@ -66,7 +66,7 @@ chatHeightUnfocused:0.4375
 chatScale:1.0
 chatWidth:1.0
 notificationDisplayTime:1.0
-mipmapLevels:1
+mipmapLevels:0
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
@@ -127,6 +127,8 @@ key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_keybinds.combatroll.roll:key.mouse.middle
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
+key_key.deeperdarker.boost:key.keyboard.b
+key_key.deeperdarker.transmit:key.keyboard.v
 key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.unknown
 key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
 key_key.do_a_barrel_roll.open_config:key.keyboard.unknown
@@ -207,7 +209,7 @@ key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:0.4
-soundCategory_music:0.1
+soundCategory_music:0.3075117370892018
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

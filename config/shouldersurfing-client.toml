@@ -1,4 +1,3 @@
-
 [camera]
 	#Size of the camera adjustment per step.
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
@@ -54,8 +53,6 @@
 			#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 			max_offset_x = 3.0
 
-		[camera.offset.multiplier]
-
 			[camera.offset.multiplier.passenger]
 				#y-offset multiplier for when the player is a passenger.
 				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
@@ -99,8 +96,6 @@
 				#z-offset multiplier for when the player is aiming.
 				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 				multiplier_offset_z = 1.0
-
-		[camera.offset.modifiers]
 
 			[camera.offset.modifiers.passenger]
 				#z-offset modifier for when the player is a passenger.
@@ -246,4 +241,3 @@
 		#The vector direction of the raytrace when picking objects. This config option only applies when using the dynamic crosshair.
 		#Allowed Values: PLAYER, CAMERA
 		pick_vector = "CAMERA"
-

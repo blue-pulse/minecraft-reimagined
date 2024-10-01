@@ -105,3 +105,7 @@ mode = "fancy"
 				skull = true
 				naga = true
 
+			[light_sources.settings.entities.dungeonnowloading]
+				spawner_carrier = true
+				chaos_spawner = true
+
