@@ -36,7 +36,7 @@ highContrast:false
 gamma:1.0
 renderDistance:5
 simulationDistance:5
-entityDistanceScaling:1.0
+entityDistanceScaling:0.75
 guiScale:3
 particles:1
 maxFps:260
@@ -66,7 +66,7 @@ chatHeightUnfocused:0.4375
 chatScale:1.0
 chatWidth:1.0
 notificationDisplayTime:1.0
-mipmapLevels:2
+mipmapLevels:1
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
