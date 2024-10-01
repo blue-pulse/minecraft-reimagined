@@ -23,18 +23,21 @@ mode = "fancy"
 
 			[light_sources.settings.entities.minecraft]
 				zombie_horse = true
+				panda = true
 				bee = true
 				axolotl = true
 				arrow = true
 				cow = true
 				magma_cube = true
 				pig = true
+				allay = true
 				skeleton = true
 				llama = true
 				bat = true
 				husk = true
 				frog = true
 				hoglin = true
+				camel = true
 				rabbit = true
 				silverfish = true
 				firework_rocket = true
@@ -49,6 +52,7 @@ mode = "fancy"
 				wither_skeleton = true
 				wandering_trader = true
 				piglin_brute = true
+				goat = true
 				ocelot = true
 				item_frame = true
 				horse = true
@@ -66,6 +70,8 @@ mode = "fancy"
 				enderman = true
 				dragon_fireball = true
 				chicken = true
+				ravager = true
+				trader_llama = true
 				donkey = true
 				tropical_fish = true
 				fox = true
@@ -76,18 +82,24 @@ mode = "fancy"
 				zombified_piglin = true
 				area_effect_cloud = true
 				piglin = true
+				cat = true
 				zombie = true
 				ender_pearl = true
+				guardian = true
 				ghast = true
 				sheep = true
 				player = true
 				pufferfish = true
 				illusioner = true
 				potion = true
+				trident = true
 				wolf = true
 				villager = true
 				skeleton_horse = true
 				zombie_villager = true
+				tnt_minecart = true
+				elder_guardian = true
+				boat = true
 				strider = true
 				polar_bear = true
 				painting = true
@@ -104,4 +116,17 @@ mode = "fancy"
 				hydrogen_jellyfish = true
 				skull = true
 				naga = true
+
+			[light_sources.settings.entities.aquamirae]
+				tortured_soul = true
+				anglerfish = true
+				spinefish = true
+
+			[light_sources.settings.entities.dungeonnowloading]
+				spawner_carrier = true
+				chaos_spawner = true
+
+			[light_sources.settings.entities.biomeswevegone]
+				oddion = true
+				man_o_war = true
 
