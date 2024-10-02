@@ -29,6 +29,7 @@ mode = "fancy"
 				cow = true
 				magma_cube = true
 				pig = true
+				allay = true
 				skeleton = true
 				llama = true
 				bat = true
@@ -80,10 +81,12 @@ mode = "fancy"
 				ender_pearl = true
 				ghast = true
 				sheep = true
+				fireball = true
 				player = true
 				pufferfish = true
 				illusioner = true
 				potion = true
+				eye_of_ender = true
 				wolf = true
 				villager = true
 				skeleton_horse = true
@@ -95,6 +98,9 @@ mode = "fancy"
 				cod = true
 				witch = true
 				spider = true
+
+			[light_sources.settings.entities.soulsweapons]
+				evil_forlorn = true
 
 			[light_sources.settings.entities.grapplemod]
 				grapplehook = true

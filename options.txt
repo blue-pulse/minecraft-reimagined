@@ -1,7 +1,4 @@
 version:3465
-fullscreenMonitor:"0,0,1920,1080"
-fullscreenMode:1
-preferredFullscreenMode:1
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -43,10 +40,10 @@ maxFps:260
 graphicsMode:0
 ao:true
 prioritizeChunkUpdates:0
-biomeBlendRadius:2
+biomeBlendRadius:1
 renderClouds:"false"
-resourcePacks:["vanilla","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/FreshAnimations_v1.9.2.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","fabric","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","file/Connected Paths v1.2.zip","continuity:glass_pane_culling_fix","continuity:default"]
-incompatibleResourcePacks:["file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip"]
+resourcePacks:["vanilla","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/FreshAnimations_v1.9.2.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/Tender Dragon v1.3.zip","fabric","continuity:glass_pane_culling_fix","continuity:default"]
+incompatibleResourcePacks:["file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/Tender Dragon v1.3.zip"]
 lastServer:
 lang:es_es
 soundDevice:""
@@ -204,10 +201,6 @@ key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.unknown
-key_iris.keybind.toggleShaders:key.keyboard.unknown
-key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:0.4
 soundCategory_music:0.3075117370892018
 soundCategory_record:1.0
