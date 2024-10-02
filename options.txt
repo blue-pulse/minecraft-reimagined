@@ -45,8 +45,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/FreshAnimations_v1.9.2.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","fabric","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","file/Connected Paths v1.2.zip","continuity:glass_pane_culling_fix","continuity:default"]
-incompatibleResourcePacks:["file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip"]
+resourcePacks:["vanilla","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/FreshAnimations_v1.9.2.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/Tender Dragon v1.3.zip","fabric","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","file/Connected Paths v1.2.zip","continuity:glass_pane_culling_fix","continuity:default"]
+incompatibleResourcePacks:["file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/Tender Dragon v1.3.zip"]
 lastServer:
 lang:es_es
 soundDevice:""
