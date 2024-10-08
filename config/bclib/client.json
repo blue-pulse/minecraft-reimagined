@@ -4,14 +4,14 @@
     "check [default: true]": false
   },
   "ui": {
-    "showUpdateInfo [default: true]": true,
+    "showUpdateInfo [default: true]": false,
     "useModrinthForUpdates [default: false]": false,
     "forceBetterXPreset [default: true]": true,
     "suppressExperimentalDialogOnLoad [default: false]": true,
     "notTheDonorType [default: true]": true
   },
   "auto_sync": {
-    "enabled [default: true]": true,
+    "enabled [default: true]": false,
     "acceptConfigs [default: true]": true,
     "acceptFiles [default: true]": true,
     "acceptMods [default: true]": true,
