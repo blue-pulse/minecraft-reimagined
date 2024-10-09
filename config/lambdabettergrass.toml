@@ -1,2 +1,2 @@
-mode = "FASTEST"
+mode = "FAST"
 betterLayer = true

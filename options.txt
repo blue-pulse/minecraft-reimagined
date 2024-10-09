@@ -4,14 +4,14 @@ operatorItemsTab:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
-chatLinksPrompt:true
+chatLinksPrompt:false
 enableVsync:false
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
-reducedDebugInfo:false
+reducedDebugInfo:true
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:1
 renderClouds:"false"
-resourcePacks:["vanilla","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/FreshAnimations_v1.9.2.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/Tender Dragon v1.3.zip","fabric","presencefootsteps:default_sound_pack","continuity:glass_pane_culling_fix","continuity:default"]
-incompatibleResourcePacks:["file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/Tender Dragon v1.3.zip"]
+resourcePacks:["vanilla","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/FreshAnimations_v1.9.2.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/Tender Dragon v1.3.zip","fabric","continuity:glass_pane_culling_fix","continuity:default","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","seasons:seasonal_lush_caves"]
+incompatibleResourcePacks:["file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/Tender Dragon v1.3.zip"]
 lastServer:
 lang:es_es
 soundDevice:""
@@ -74,7 +74,7 @@ rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
 skipRealms32bitWarning:false
-hideMatchedNames:true
+hideMatchedNames:false
 joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:false
@@ -82,7 +82,6 @@ showAutosaveIndicator:false
 allowServerListing:true
 onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
-debugifyTelemetry:0
 telemetryOptInExtra:false
 onboardAccessibility:false
 key_key.attack:key.mouse.left
@@ -172,14 +171,6 @@ key_key.shouldersurfing.swap_shoulder:key.keyboard.unknown
 key_key.shouldersurfing.toggle_perspective:key.keyboard.unknown
 key_key.shouldersurfing.free_look:key.keyboard.unknown
 key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.unknown
-key_key.soulsweapons.return_freyr_sword:key.keyboard.r
-key_key.soulsweapons.freyr_sword_stationary:key.keyboard.z
-key_key.soulsweapons.collect_summons_soul_reaper:key.keyboard.v
-key_key.soulsweapons.switch_weapon:key.keyboard.b
-key_key.soulsweapons.keybind_ability:key.keyboard.left.alt
-key_key.soulsweapons.parry:key.keyboard.right.alt
-key_key.soulsweapons.effect_shoot_moonlight:key.keyboard.h
-key_key.soulsweapons.return_thrown_weapon:key.keyboard.n
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.unknown
 key_gui.xaero_toggle_slime:key.keyboard.unknown
@@ -202,7 +193,7 @@ key_gui.xaero_toggle_tracked_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.unknown
 soundCategory_master:0.4
-soundCategory_music:0.3075117370892018
+soundCategory_music:0.1
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

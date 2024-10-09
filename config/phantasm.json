@@ -1,0 +1,33 @@
+{
+  "TECHNICAL": {
+    "VERSION_DO_NOT_EDIT": 1.3,
+    "FORCE_RESET": false
+  },
+  "world_gen": {
+    "biomes": {
+      "dreaming_den": {
+        "generate": true,
+        "generation_weight": 6,
+        "do_pream_trees": true,
+        "do_tall_pream_trees": true,
+        "do_crystal_spikes": true
+      }
+    },
+    "do_fallen_stars": true,
+    "do_raw_purpur": true,
+    "improve_end_spires": true
+  },
+  "gameplay": {
+    "outer_end_in_gameloop": true,
+    "behemoth": {
+      "aggro_range": 6,
+      "aggro_range_sneaking": 0
+    }
+  },
+  "equipment": {
+    "elytra_boost_advancement": "minecraft:end/kill_dragon",
+    "crystal_xp_boost": 3,
+    "chorus_fruit_salad_teleportation": true,
+    "chorus_fruit_salad_stack_size": 1
+  }
+}

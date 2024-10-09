@@ -1,6 +1,6 @@
 # LambDynamicLights configuration.
 # The dynamic lights mode
-mode = "fancy"
+mode = "simple"
 
 # Light sources settings.
 [light_sources]
@@ -13,7 +13,7 @@ mode = "fancy"
 	# Enable first-person player light source.
 	self = true
 	# TNT lighting mode. May be off, simple or fancy.
-	tnt = "off"
+	tnt = "simple"
 	# Creeper lighting mode. May be off, simple or fancy.
 	creeper = "simple"
 
@@ -23,87 +23,144 @@ mode = "fancy"
 
 			[light_sources.settings.entities.minecraft]
 				zombie_horse = true
-				bee = true
 				axolotl = true
+				egg = true
+				allay = true
+				llama = true
+				mule = true
+				bat = true
+				husk = true
+				camel = true
+				experience_bottle = true
+				rabbit = true
+				silverfish = true
+				firework_rocket = true
+				giant = true
+				drowned = true
+				item = true
+				goat = true
+				horse = true
+				vindicator = true
+				minecart = true
+				spectral_arrow = true
+				mooshroom = true
+				llama_spit = true
+				glow_item_frame = false
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				ravager = true
+				evoker_fangs = true
+				tropical_fish = true
+				chest_minecart = true
+				slime = true
+				pillager = true
+				area_effect_cloud = true
+				piglin = true
+				blaze = true
+				end_crystal = true
+				endermite = true
+				zombie = true
+				ender_pearl = true
+				item_display = true
+				guardian = true
+				fireball = true
+				illusioner = true
+				eye_of_ender = true
+				wolf = true
+				zombie_villager = true
+				tnt_minecart = true
+				block_display = true
+				elder_guardian = true
+				chest_boat = true
+				boat = true
+				strider = true
+				cave_spider = true
+				cod = true
+				witch = true
+				spider = true
+				command_block_minecart = true
+				panda = true
+				bee = true
 				arrow = true
 				cow = true
 				magma_cube = true
 				pig = true
-				allay = true
 				skeleton = true
-				llama = true
-				bat = true
-				husk = true
 				frog = true
 				hoglin = true
-				rabbit = true
-				silverfish = true
-				firework_rocket = true
 				armor_stand = true
-				drowned = true
 				experience_orb = true
 				dolphin = true
-				item = true
+				stray = true
 				turtle = true
+				shulker = true
 				salmon = true
 				vex = true
 				wither_skeleton = true
 				wandering_trader = true
 				piglin_brute = true
 				ocelot = true
+				furnace_minecart = true
 				item_frame = true
-				horse = true
-				vindicator = true
-				minecart = true
+				phantom = true
 				ender_dragon = true
+				leash_knot = true
 				evoker = true
-				spectral_arrow = true
-				mooshroom = true
+				marker = true
 				glow_squid = true
-				glow_item_frame = false
 				squid = true
-				parrot = true
-				creeper = true
 				enderman = true
 				dragon_fireball = true
 				chicken = true
+				trader_llama = true
 				donkey = true
-				tropical_fish = true
 				fox = true
-				chest_minecart = true
-				slime = true
-				pillager = true
 				iron_golem = true
 				zombified_piglin = true
-				area_effect_cloud = true
-				piglin = true
-				zombie = true
-				ender_pearl = true
+				cat = true
 				ghast = true
 				sheep = true
-				fireball = true
 				player = true
 				pufferfish = true
-				illusioner = true
 				potion = true
-				eye_of_ender = true
-				wolf = true
+				trident = true
 				villager = true
 				skeleton_horse = true
-				zombie_villager = true
-				strider = true
 				polar_bear = true
+				hopper_minecart = true
+				falling_block = true
 				painting = true
-				cave_spider = true
-				cod = true
-				witch = true
-				spider = true
+				interaction = true
 
 			[light_sources.settings.entities.soulsweapons]
-				evil_forlorn = true
+				withered_demon = true
 
 			[light_sources.settings.entities.grapplemod]
 				grapplehook = true
+
+			[light_sources.settings.entities.naturalist]
+				rattlesnake = true
+				zebra = true
+				alligator = true
+				snail = true
+				canary = true
+				bluejay = true
+				coral_snake = true
+				snake = true
+				cardinal = true
+				vulture = true
+				catfish = true
+				robin = true
+				boar = true
+				tortoise = true
+				butterfly = true
+				duck = true
+				giraffe = true
+				bear = true
+				sparrow = true
+				lizard = true
+				finch = true
 
 			[light_sources.settings.entities.betternether]
 				firefly = true
@@ -111,7 +168,27 @@ mode = "fancy"
 				skull = true
 				naga = true
 
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+				super_glue = true
+
+			[light_sources.settings.entities.phantasm]
+				behemoth = true
+				crystie = true
+
+			[light_sources.settings.entities.aquamirae]
+				tortured_soul = true
+				anglerfish = true
+				spinefish = true
+
 			[light_sources.settings.entities.dungeonnowloading]
 				spawner_carrier = true
 				chaos_spawner = true
+
+			[light_sources.settings.entities.biomeswevegone]
+				oddion = true
+				man_o_war = true
+
+			[light_sources.settings.entities.bosses_of_mass_destruction]
+				gauntlet = true
 

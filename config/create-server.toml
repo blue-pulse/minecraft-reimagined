@@ -1,3 +1,4 @@
+
 #.
 #The Backbone of Create
 [infrastructure]
@@ -236,6 +237,8 @@
 		#Minimum added Capacity by sources to be considered 'high'
 		#Range: 0.0 ~ 65535.0
 		highCapacity = 1024.0
+
+	[kinetics.stressValues]
 
 		#.
 		#Fine tune the kinetic stats of individual components
@@ -520,3 +523,4 @@
 		#The top speed of any assembled Train.
 		#Range: 0.0 ~ 3.4028234663852886E38
 		trainTopSpeed = 28.0
+
