@@ -1,6 +1,7 @@
 *.*
 !assets/*/*
 !config/*/*
+!config/*
 !mods/*.jar
 !resourcepacks/*.zip
 !shaderpacks/*.zip

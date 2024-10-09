@@ -1,6 +1,6 @@
 # LambDynamicLights configuration.
 # The dynamic lights mode
-mode = "fancy"
+mode = "fast"
 
 # Light sources settings.
 [light_sources]
@@ -13,7 +13,7 @@ mode = "fancy"
 	# Enable first-person player light source.
 	self = true
 	# TNT lighting mode. May be off, simple or fancy.
-	tnt = "off"
+	tnt = "simple"
 	# Creeper lighting mode. May be off, simple or fancy.
 	creeper = "simple"
 
@@ -141,21 +141,26 @@ mode = "fancy"
 
 			[light_sources.settings.entities.naturalist]
 				rattlesnake = true
+				zebra = true
 				alligator = true
 				snail = true
 				canary = true
 				bluejay = true
 				coral_snake = true
 				snake = true
+				cardinal = true
 				vulture = true
 				catfish = true
 				robin = true
+				boar = true
 				tortoise = true
 				butterfly = true
 				duck = true
+				giraffe = true
 				bear = true
 				sparrow = true
 				lizard = true
+				finch = true
 
 			[light_sources.settings.entities.betternether]
 				firefly = true
