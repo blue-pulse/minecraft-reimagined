@@ -29,7 +29,7 @@ Dive in and enjoy a fresh take on Minecraft!
 To optimize your experience you can use the following JVM options:
 
 ```
--XX:+UseZGC -XX:+ZGenerational
+-XX:+UnlockExperimentalVMOptions -XX:+UseZGC -XX:+ZGenerational
 ```
 
 These options enable the Z Garbage Collector, which helps reduce lag spikes 
