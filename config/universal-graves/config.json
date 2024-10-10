@@ -13,9 +13,9 @@
       "type": "free",
       "count": 0
     },
-    "give_death_compass": true,
-    "enable_use_death_compass_to_open_gui": true,
-    "enable_click_to_open_gui": true,
+    "give_death_compass": false,
+    "enable_use_death_compass_to_open_gui": false,
+    "enable_click_to_open_gui": false,
     "shift_and_use_quick_pickup": true,
     "allow_remote_protection_removal": true,
     "allow_remote_breaking": true,

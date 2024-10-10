@@ -142,6 +142,7 @@ mode = "fast"
 			[light_sources.settings.entities.naturalist]
 				rattlesnake = true
 				zebra = true
+				deer = true
 				alligator = true
 				snail = true
 				canary = true
@@ -153,6 +154,7 @@ mode = "fast"
 				catfish = true
 				robin = true
 				boar = true
+				bass = true
 				tortoise = true
 				butterfly = true
 				duck = true
