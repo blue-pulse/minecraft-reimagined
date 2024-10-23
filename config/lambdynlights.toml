@@ -46,6 +46,7 @@ mode = "fast"
 				mooshroom = true
 				llama_spit = true
 				glow_item_frame = false
+				tnt = true
 				parrot = true
 				creeper = true
 				lightning_bolt = true
@@ -140,29 +141,34 @@ mode = "fast"
 				grapplehook = true
 
 			[light_sources.settings.entities.naturalist]
-				rattlesnake = true
-				zebra = true
 				deer = true
 				alligator = true
 				snail = true
-				canary = true
+				rhino = true
 				bluejay = true
-				coral_snake = true
 				snake = true
-				cardinal = true
-				vulture = true
 				catfish = true
 				robin = true
 				boar = true
-				bass = true
 				tortoise = true
 				butterfly = true
 				duck = true
-				giraffe = true
 				bear = true
 				sparrow = true
 				lizard = true
+				rattlesnake = true
+				zebra = true
+				canary = true
+				firefly = true
+				coral_snake = true
+				cardinal = true
+				vulture = true
+				bass = true
+				giraffe = true
 				finch = true
+
+			[light_sources.settings.entities.handcrafted]
+				seat = true
 
 			[light_sources.settings.entities.betternether]
 				firefly = true

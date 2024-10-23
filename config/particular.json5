@@ -12,7 +12,7 @@
 	"rainRipples": true,
 	"waterDripRipples": true,
 	"cakeEatingParticles": true,
-	"emissiveLavaDrips": true,
+	"emissiveLavaDrips": false,
 	"fireflySettings": {
 		"startTime": 12000,
 		"endTime": 23000,

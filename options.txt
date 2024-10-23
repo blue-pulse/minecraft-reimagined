@@ -1,7 +1,7 @@
 version:3465
 fullscreenMonitor:"0,0,1920,1080"
-fullscreenMode:2
-preferredFullscreenMode:2
+fullscreenMode:1
+preferredFullscreenMode:1
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -18,7 +18,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -38,15 +38,15 @@ renderDistance:5
 simulationDistance:5
 entityDistanceScaling:0.75
 guiScale:3
-particles:1
+particles:0
 maxFps:260
 graphicsMode:0
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/FreshAnimations_v1.9.2.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/Tender Dragon v1.3.zip","fabric","continuity:glass_pane_culling_fix","continuity:default","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","seasons:seasonal_lush_caves"]
-incompatibleResourcePacks:["file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/Tender Dragon v1.3.zip"]
+resourcePacks:["vanilla","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/FreshAnimations_v1.9.2.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/boss-refreshed-v1.3.zip","fabric","continuity:glass_pane_culling_fix","continuity:default","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","seasons:seasonal_lush_caves"]
+incompatibleResourcePacks:["file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/boss-refreshed-v1.3.zip"]
 lastServer:
 lang:es_es
 soundDevice:""
@@ -141,6 +141,7 @@ key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w
 key_key.do_a_barrel_roll.thrust_backward:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.unknown
+key_key.fog.toggle:key.keyboard.unknown
 key_key.boththrow.desc:key.mouse.right
 key_key.leftthrow.desc:key.keyboard.unknown
 key_key.rightthrow.desc:key.keyboard.unknown
