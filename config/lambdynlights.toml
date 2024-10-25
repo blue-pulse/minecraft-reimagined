@@ -165,6 +165,7 @@ mode = "fast"
 				vulture = true
 				bass = true
 				giraffe = true
+				elephant = true
 				finch = true
 
 			[light_sources.settings.entities.handcrafted]
