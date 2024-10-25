@@ -57,7 +57,7 @@ furnace.addRecipe("rabbit_hide", <item:minecraft:rabbit_hide>, <item:minecraft:r
 furnace.addRecipe("slime_ball", <item:minecraft:slime_ball>, <item:minecraft:bone_meal>, 1.0, 520);
 
 // String from wheat
-craftingTable.addShapedMirrored("string_from_wheat", MirrorAxis.DIAGONAL, <item:minecraft:string> * 2, [
+craftingTable.addShapedMirrored("string_from_wheat", MirrorAxis.HORIZONTAL, <item:minecraft:string> * 2, [
     [<item:minecraft:wheat>, <item:minecraft:air>, <item:minecraft:air>], 
     [<item:minecraft:air>, <item:minecraft:wheat>, <item:minecraft:air>], 
     [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:wheat>]]
