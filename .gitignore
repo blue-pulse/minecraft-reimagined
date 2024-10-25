@@ -3,5 +3,6 @@
 !config/*/*
 !config/*
 !mods/*.jar
+!scripts/*.zs
 !.gitignore
 !*.md
