@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:1
 renderClouds:"false"
-resourcePacks:["vanilla","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/FreshAnimations_v1.9.2.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/boss-refreshed-v1.3.zip","fabric","continuity:glass_pane_culling_fix","continuity:default","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","seasons:seasonal_lush_caves"]
-incompatibleResourcePacks:["file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/boss-refreshed-v1.3.zip"]
+resourcePacks:["vanilla","file/Eyeless Fresh Moves v3.0.1.zip","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/FreshAnimations_v1.9.2.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/boss-refreshed-v1.3.zip","fabric","continuity:glass_pane_culling_fix","continuity:default","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","seasons:seasonal_lush_caves","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Default-Dark-Mode-Expansion-1.19.0+-2024.9.22.zip"]
+incompatibleResourcePacks:["file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/boss-refreshed-v1.3.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Default-Dark-Mode-Expansion-1.19.0+-2024.9.22.zip"]
 lastServer:
 lang:es_es
 soundDevice:""
@@ -118,6 +118,8 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_brute_force_rendering_culling.key.config:key.keyboard.r
+key_brute_force_rendering_culling.key.debug:key.keyboard.x
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_keybinds.combatroll.roll:key.mouse.middle
@@ -136,7 +138,6 @@ key_key.do_a_barrel_roll.roll_left:key.keyboard.unknown
 key_key.do_a_barrel_roll.roll_right:key.keyboard.unknown
 key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w
 key_key.do_a_barrel_roll.thrust_backward:key.keyboard.unknown
-key_key.entityculling.toggle:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.unknown
 key_key.fog.toggle:key.keyboard.unknown
 key_key.boththrow.desc:key.mouse.right

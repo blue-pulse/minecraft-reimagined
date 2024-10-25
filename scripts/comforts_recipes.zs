@@ -3,6 +3,7 @@ import crafttweaker.api.recipe.type.Recipe;
 import crafttweaker.api.world.Container;
 import crafttweaker.api.item.IItemStack;
 import crafttweaker.api.bracket.BracketHandlers;
+import crafttweaker.api.recipe.MirrorAxis;
 
 // Functions
 function getItemByName(itemName as string) as IItemStack {
@@ -28,16 +29,14 @@ for color in woolColors {
     var ingredient = getItemByName("minecraft:" + color + "_wool");
 
     // Create sleeping bag recipes
-    craftingTable.addShaped("sleeping_bag_" + color, getItemByName("comforts:sleeping_bag_" + color), [
-        [air, ingredient, air], 
-        [air, ingredient, air], 
-        [air, ingredient, air]]
+    craftingTable.addShapedMirrored("sleeping_bag_" + color, MirrorAxis.VERTICAL, getItemByName("comforts:sleeping_bag_" + color), [
+        [ingredient], 
+        [ingredient], 
+        [ingredient]]
     );
     
     // Create sheet recipes
-    craftingTable.addShaped(color + "_sheet", getItemByName("handcrafted:" + color + "_sheet"), [
-        [air, air, air], 
-        [ingredient, ingredient, ingredient], 
-        [air, air, air]]
+    craftingTable.addShapedMirrored(color + "_sheet", MirrorAxis.HORIZONTAL, getItemByName("handcrafted:" + color + "_sheet"), [
+        [ingredient, ingredient, ingredient]]
     );
 }

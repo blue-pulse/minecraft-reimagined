@@ -11,15 +11,11 @@
 	#The distance multiplier on whether or not to hide the player model if the camera gets too close to it. Set to 0 to disable.
 	#Range: 0.0 ~ 1.7976931348623157E308
 	keep_camera_out_of_head_distance_multiplier = 0.75
-	#Whether or not to temporarily center the camera when using Elytra.
-	center_camera_when_fall_flying = false
 	#The angle at which the camera will be centered when looking down. Set to 0 to disable.
 	#Range: 0.0 ~ 90.0
 	center_camera_when_looking_down_angle = 1.0
 	#Whether or not to dynamically adjust camera offsets depending on space constraints.
 	dynamically_adjust_offsets = true
-	#Whether or not to temporarily center the camera when climbing.
-	center_camera_when_climbing = true
 
 	[camera.offset]
 		#Third person camera x-offset.
@@ -100,6 +96,17 @@
 				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 				multiplier_offset_z = 1.0
 
+			[camera.offset.multiplier.climbing]
+				#y-offset multiplier for when the player is climbing.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_y = 1.0
+				#x-offset multiplier for when the player is climbing.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_x = 0.0
+				#z-offset multiplier for when the player is climbing.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_z = 1.0
+
 		[camera.offset.modifiers]
 
 			[camera.offset.modifiers.passenger]
@@ -143,6 +150,17 @@
 				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 				modifier_offset_x = 0.0
 				#y-offset modifier for when the player is aiming.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_y = 0.0
+
+			[camera.offset.modifiers.climbing]
+				#z-offset modifier for when the player is climbing.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_z = 0.0
+				#x-offset modifier for when the player is climbing.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_x = 0.0
+				#y-offset modifier for when the player is climbing.
 				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 				modifier_offset_y = 0.0
 
