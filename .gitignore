@@ -4,6 +4,7 @@
 !config/*
 !mods/*.jar
 !resourcepacks/*.zip
+!scripts/*.zs
 !shaderpacks/*.zip
 !shaderpacks/*.txt
 !options.txt
