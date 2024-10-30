@@ -47,6 +47,7 @@ mode = "fast"
 				llama_spit = true
 				glow_item_frame = false
 				tnt = true
+				snowball = true
 				parrot = true
 				creeper = true
 				lightning_bolt = true
@@ -188,11 +189,15 @@ mode = "fast"
 			[light_sources.settings.entities.aquamirae]
 				tortured_soul = true
 				anglerfish = true
+				maw = true
+				golden_moth = true
+				maze_mother = true
 				spinefish = true
 
 			[light_sources.settings.entities.dungeonnowloading]
 				spawner_carrier = true
 				chaos_spawner = true
+				chaos_spawner_projectile = true
 
 			[light_sources.settings.entities.biomeswevegone]
 				oddion = true
