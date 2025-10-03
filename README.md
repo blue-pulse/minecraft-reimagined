@@ -11,16 +11,7 @@
 
 ## Description
 
-**Minecraft Reimagined** is a straightforward modpack that enhances performance and graphics while introducing exciting new features like biomes, structures, and bosses. Built for Fabric 1.20.1, it comes in three versions to suit different needs:
-
-#### 🚀 Standard
-The basic modpack, perfect for players who want improved performance and visuals without any extra requirements.
-
-#### 🔥 Ultimate
-Packed with additional visual effects and enhancements, this version is ideal for players with more powerful computers seeking a richer experience.
-
-#### ⚙️ Server
-Specifically designed for server installations, this version allows you to host the modpack for multiplayer gameplay without extra client-side features.
+**Minecraft Reimagined** is a straightforward modpack built for Neoforge 1.21.1 that enhances performance and graphics while introducing exciting new features like biomes, structures, and bosses.
 
 Dive in and enjoy a fresh take on Minecraft!
 
