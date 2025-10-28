@@ -119,14 +119,20 @@ _version = 3
 		# UNCOMPRESSED 
 		# Should only be used for testing, is worse in every way vs [LZ4].
 		# Expected Compression Ratio: 1.0
-		# Estimated average DTO read speed: 3.25 milliseconds
-		# Estimated average DTO write speed: 5.99 milliseconds
+		# Estimated average DTO read speed: 6.09 milliseconds
+		# Estimated average DTO write speed: 6.01 milliseconds
 		# 
 		# LZ4 
 		# A good option if you're CPU limited and have plenty of hard drive space.
-		# Expected Compression Ratio: 0.26
-		# Estimated average DTO read speed: 1.85 ms
-		# Estimated average DTO write speed: 9.46 ms
+		# Expected Compression Ratio: 0.4513
+		# Estimated average DTO read speed: 3.25 ms
+		# Estimated average DTO write speed: 5.99 ms
+		# 
+		# Z_STD 
+		# A good option if you're CPU limited and have plenty of hard drive space.
+		# Expected Compression Ratio: 0.2606
+		# Estimated average DTO read speed: 9.31 ms
+		# Estimated average DTO write speed: 15.13 ms
 		# 
 		# LZMA2 
 		# Slow but very good compression.
@@ -387,7 +393,7 @@ _version = 3
 				# Shows the memory use and array counts for each DH object pool.
 				showSeparatedObjectPools = false
 				#
-				# Shows info about each thread pool.
+				# Shows the player's LOD position.
 				showPlayerPos = true
 				#
 				# Shows the combined memory use and array counts for all DH pooled objects.

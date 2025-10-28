@@ -7,5 +7,5 @@
 	synchronizedEntities = ["minecraft:item", "minecraft:tnt", "minecraft:experience_orb"]
 	#Enables parallel processing of entity spawns.
 	enableAsyncSpawn = true
-	#Enables async processing of random ticks.
+	#Experimental! Enables async processing of random ticks.
 	enableAsyncRandomTicks = false
