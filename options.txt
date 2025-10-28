@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","mod_resources","continuity:glass_pane_culling_fix","continuity:default","file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/FreshAnimations_v1.9.2.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/boss-refreshed-v1.3.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Louder steps v2.5.zip","file/Default-Dark-Mode-1.20.2+-2025.5.0.zip","file/Default-Dark-Mode-Expansion-1.19.0+-2025.10.1.zip"]
-incompatibleResourcePacks:["file/§aReimagined Lite§0_§8[v1.45]§0.zip","file/§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip","file/boss-refreshed-v1.3.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","continuity:glass_pane_culling_fix","continuity:default","file/FreshAnimations_v1.10.1.zip","file/FA+Details-v2.0.zip","file/boss-refreshed-v1.3.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Louder steps v2.5.zip","file/Default-Dark-Mode-1.20.2+-2025.5.0.zip","file/Default-Dark-Mode-Expansion-1.19.0+-2025.10.1.zip"]
+incompatibleResourcePacks:["file/boss-refreshed-v1.3.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
