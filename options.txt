@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","mod_resources","continuity:glass_pane_culling_fix","continuity:default","file/FreshAnimations_v1.10.1.zip","file/FA+Details-v2.0.zip","file/boss-refreshed-v1.3.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Louder steps v2.5.zip","file/Default-Dark-Mode-1.20.2+-2025.5.0.zip","file/Default-Dark-Mode-Expansion-1.19.0+-2025.10.1.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","continuity:glass_pane_culling_fix","continuity:default","file/FreshAnimations_v1.10.1.zip","file/FA+Details-v2.0.zip","file/-1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip","file/boss-refreshed-v1.3.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Louder steps v2.5.zip","file/Default-Dark-Mode-1.20.2+-2025.5.0.zip","file/Default-Dark-Mode-Expansion-1.19.0+-2025.10.1.zip"]
 incompatibleResourcePacks:["file/boss-refreshed-v1.3.zip"]
 lastServer:
 lang:en_us
